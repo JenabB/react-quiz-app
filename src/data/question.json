@@ -1,0 +1,47 @@
+{
+  "questions": [
+    {
+      "title": "What is the capital of Indonesia?",
+      "options": [
+        {
+          "answer": "Jakarta",
+          "isCorrect": true
+        },
+        {
+          "answer": "Bengkulu",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bumi Ayu",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bali",
+          "isCorrect": false
+        }
+      ]
+    },
+
+    {
+      "title": "Who is CEO if Tesla?",
+      "options": [
+        {
+          "answer": "Mark Zukerberg",
+          "isCorrect": false
+        },
+        {
+          "answer": "Elon Musk",
+          "isCorrect": true
+        },
+        {
+          "answer": "Megawati",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sasuke",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
